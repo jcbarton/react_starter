@@ -1,5 +1,5 @@
 var React = require('react');
-var Title = require('./components/title');
+var Title = require('./Components/Title');
 var {Link, RouteHandler} = require('react-router');
 
 require('./App.css');
